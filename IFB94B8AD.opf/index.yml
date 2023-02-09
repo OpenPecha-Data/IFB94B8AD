@@ -1,0 +1,35 @@
+id: 52e9cba3b68440638366836651a2c39d
+annotation_type: index
+revision: '00001'
+annotations:
+  9586112806704cbcb808fc087a92d0da:
+    base: 2E99.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Preface
+      span:
+        start: 11
+        end: 21
+    - title: Verses 1-20
+      span:
+        start: 22
+        end: 436
+    - title: Verses 21-40
+      span:
+        start: 437
+        end: 916
+    - title: Verses 41-60
+      span:
+        start: 917
+        end: 1396
+    - title: Verses 61-77
+      span:
+        start: 1397
+        end: 1804
+    - title: Colophon
+      span:
+        start: 1805
+        end: 1816
